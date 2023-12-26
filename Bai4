@@ -82,7 +82,7 @@
             <textarea name="feature" id="feature" cols="120" rows="10"></textarea>
         </div><br>
         <div>
-            <p>Please rate your level of agreement with the following statements</p><br>
+            <p style='font-size: 120%;">Please rate your level of agreement with the following statements</p><br>
             <table border="1">
                 <tr style="background-color: #dddddd;" >
                     <th></th>
